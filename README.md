@@ -2,7 +2,7 @@
 
 **Sovrix (SVX)** is a next-generation, community-driven cryptocurrency designed for speed, security, and true decentralization.  
 Built as a fork of Litecoin, Sovrix introduces a **fixed supply of 12.5 million SVX**, with **block reward halving every 6 months**, ensuring long-term scarcity and sustainable value.
-
+SOVRIX – Power to the People, Value in the Chain.
 ---
 
 ## 🔹 Features
@@ -111,6 +111,7 @@ Please open an Issue to report bugs, request features, or discuss improvements.
 💬 Telegram: t.me/sovrixdao
 
 💻 GitHub: github.com/sovrixchain
+
 
 📜 License
 Sovrix is released under the MIT License – free and open-source forever.
